@@ -9,4 +9,6 @@ The idea of this repository is to collect my own work and ideas to solve Advent 
 ```bash
 cd 2018
 cd 07
+mkdir python
+cd python
 ```
