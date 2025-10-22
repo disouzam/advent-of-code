@@ -6,9 +6,18 @@ The idea of this repository is to collect my own work and ideas to solve Advent 
 
 **Title of the challenge:** The Sum of Its Parts
 
+Initialization instructions:
 ```bash
 cd 2018
 cd 07
 mkdir python
 cd python
+```
+
+After initial setup is performed:
+
+```bash
+poetry shell
+poetry install
+python main.py
 ```
